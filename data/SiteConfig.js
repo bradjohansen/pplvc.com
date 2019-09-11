@@ -2,7 +2,7 @@ const config = {
   siteTitle: "PPL VC", // Site title.
   siteTitleShort: "PPL VC", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "PPL VC | An ISA Marketplace", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteLogo: "/logos/profile_image_without_slogan.png", // Logo used for SEO and manifest.
   siteUrl: "https://pplvc.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
