@@ -20,17 +20,17 @@ const config = {
   userLocation: "Houston, TX", // User location to display in the author segment.
   userAvatar: "", // User avatar to display in the author segment.
   userDescription:
-    "", // User description to display in the author segment.
+    "Trying to build something new. Learning everything I can about income share agreements.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
-    {
-      label: "GitHub",
-      url: "https://github.com/bradjohansen",
-      iconClassName: "fa fa-github"
-    },
+    //{
+      //label: "GitHub",
+      //url: "https://github.com/bradjohansen",
+      //iconClassName: "fa fa-github"
+    //},
     {
       label: "Twitter",
-      url: "https://twitter.com/brad_johansen",
+      url: "https://twitter.com/ppl_vc",
       iconClassName: "fa fa-twitter"
     },
     {
