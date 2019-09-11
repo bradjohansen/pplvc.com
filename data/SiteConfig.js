@@ -18,7 +18,7 @@ const config = {
   userEmail: "brad.johansen@pplvc.com", // Email used for RSS feed's author segment
   userTwitter: "brad_johansen", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Houston, TX", // User location to display in the author segment.
-  userAvatar: "", // User avatar to display in the author segment.
+  userAvatar: "/assets/IMG_0886.JPG", // User avatar to display in the author segment.
   userDescription:
     "Trying to build something new. Learning everything I can about income share agreements.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
