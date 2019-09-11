@@ -82,7 +82,6 @@ export default class PostTemplate extends React.Component {
                 <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
               </CardText>
               <div className="post-meta">
-                <PostTags tags={post.tags} />
                 <SocialLinks
                   postPath={slug}
                   postNode={postNode}
@@ -95,7 +94,6 @@ export default class PostTemplate extends React.Component {
               config={config}
               expanded={expanded}
             />
-            <Disqus postNode={postNode} expanded={expanded} />
           </div>
 
           <PostSuggestions
