@@ -28,6 +28,8 @@ class Footer extends Component {
               </Button>
             </Link>
           </div>
+          <div className="based-on">
+	        </div>
         </div>
       </footer>
     );
