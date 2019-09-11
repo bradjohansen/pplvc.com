@@ -68,7 +68,6 @@ class PostPreview extends Component {
 
         <CardText expandable={expand}>
           {postInfo.excerpt}
-          <PostTags tags={postInfo.tags} />
         </CardText>
       </Card>
     );
